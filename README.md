@@ -3,8 +3,7 @@
 <a href="https://ibb.co/kDjBG6v"><img src="https://i.ibb.co/t2gKHPF/20241225-193114.jpg" alt="20241225-193114" border="0"></a>
 <p align="center">
   <a href="https://github.com/COxIKU-MD/COxIKU-MD-V1">
-    <img src="https://img.shields.io/badge/6-kl?label=Docker%20Pulls&link=https%3A%2F%2Fgithub.com%2FCOxIKU-MD%2FCOxIKU-MD-V1
-">
+    <img src="https://img.shields.io/badge/6-kl?label=Docker%20Pulls&link=https%3A%2F%2Fgithub.com%2FCOxIKU-MD%2FCOxIKU-MD-V1%2Ftree%2Fmain">
   </a>
 </p>
 
