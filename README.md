@@ -23,20 +23,20 @@
 </p>
 
 <p align="center">
-  <a href="httsp://github.com/sadiyamin/Lara-MD">
+  <a href="httsp://github.com/COxIKU-MD/COxIKU-MD-V1D">
     <img src="https://img.shields.io/badge/459kb-kl?label=Repo%20Size">
     
 
   </a>
-  <a href="httsp://github.com/sadiyamin/Lara-MD">
-    <img src="https://img.shields.io/github/license/sadiyamin/Lara-MD?color=purple&label=License&style=plastic">
+  <a href="httsp://github.com/COxIKU-MD/COxIKU-MD-V1">
+    <img src="https://img.shields.io/badge/Apache%202.0-kl?label=License">
 
   </a>
-  <a href="httsp://github.com/sadiyamin/Lara-MD">
+  <a href="httsp://github.com/COxIKU-MD/COxIKU-MD-V1">
     <img src="https://img.shields.io/github/languages/top/sadiyamin/Lara-MD?color=purple&label=Javascript&style=plastic">
 
   </a>
-  <a href="httsp://github.com/sadiyamin/Lara-MD">
+  <a href="httsp://github.com/COxIKU-MD/COxIKU-MD-V1">
     <img src="https://img.shields.io/static/v1?label=Author&message=sadiya%20min&color=purple&style=plastic">
 
   </a>
