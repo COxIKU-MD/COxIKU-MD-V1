@@ -52,10 +52,6 @@
 	
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79D1D&width=435&lines=Hello%2C+I'M+COx+IKU" alt="Typing SVG" /></a>
 
-<hr>
-<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Lara-MD...;Created+by+Sadeesha...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+Lara-MD..."
-            alt="Typing">
-
 <div align="center">
 </div>
 
