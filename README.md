@@ -24,7 +24,8 @@
 
 <p align="center">
   <a href="httsp://github.com/sadiyamin/Lara-MD">
-    ![Static Badge](https://img.shields.io/badge/459kb-kl?label=Repo%20Size)
+    <img src="https://img.shields.io/badge/459kb-kl?label=Repo%20Size">
+    
 
   </a>
   <a href="httsp://github.com/sadiyamin/Lara-MD">
@@ -263,4 +264,3 @@ jobs:
 <hr>
 
 <h3>⚠️ Warning!</h3>
-
