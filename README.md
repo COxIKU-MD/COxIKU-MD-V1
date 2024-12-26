@@ -10,8 +10,7 @@
 <p align="center">
 
   <a href="https://github.com/COxIKU-MD/COxIKU-MD-V1">
-    <img src="https://img.shields.io/badge/1-kl?label=Views&link=https%3A%2F%2Fgithub.com%2FCOxIKU-MD%2FCOxIKU-MD-V1
-"/></a>
+    <img src="https://img.shields.io/badge/1-kl?label=Views&link=https%3A%2F%2Fgithub.com%2FCOxIKU-MD%2FCOxIKU-MD-V1"/></a>
   
   </a>
   <a href="/fork">
