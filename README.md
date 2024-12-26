@@ -33,11 +33,11 @@
 
   </a>
   <a href="httsp://github.com/COxIKU-MD/COxIKU-MD-V1">
-    <img src="https://img.shields.io/github/languages/top/sadiyamin/Lara-MD?color=purple&label=Javascript&style=plastic">
+    <img src="https://img.shields.io/badge/15.00%25-kl?label=Java%20Script">
 
   </a>
   <a href="httsp://github.com/COxIKU-MD/COxIKU-MD-V1">
-    <img src="https://img.shields.io/static/v1?label=Author&message=sadiya%20min&color=purple&style=plastic">
+    <img src="https://img.shields.io/badge/COxIKU%20MD-kl?label=Auther">
 
   </a>
   </p>
