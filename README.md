@@ -10,7 +10,8 @@
 <p align="center">
 
   <a href="https://github.com/COxIKU-MD/COxIKU-MD-V1">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsadiyamin%2FLara-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
+    <img src="https://img.shields.io/badge/1-kl?label=Views&link=https%3A%2F%2Fgithub.com%2FCOxIKU-MD%2FCOxIKU-MD-V1
+"/></a>
   
   </a>
   <a href="/fork">
