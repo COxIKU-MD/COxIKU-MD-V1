@@ -59,25 +59,18 @@
 
 			Lara-MD බොට් යනු WhatsApp සඳහා වන පරිශීලක බොට් එකක් වන අතර එමඟින් ඔබට බොහෝ කාර්යයන් ඉටු කිරීමට ඉඩ සලසයි. මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියක් නොවේ. මෙය බොට් යන්ත්‍රයක් යෙදවීමට ඔබට ඉඩ සලසන ව්‍යාපෘතියක් පමණි
        
-<h3>🌸 How To Deploy </h3>
+<h3> How To Deploy </h3>
 
-<h5>🌸 First tap to Fork button and create new fork</h5>
+<h5> First tap to Fork button and create new fork</h5>
 
-<h4>🌸 Following 👇</h4>
+<h4> Following 👇</h4>
 <hr>	
-<h3>🌸 Get Your SESSION ID 👇</h3> 
+<h3> Get Your SESSION ID 👇</h3> 
 <h4>Click the SESSION_ID Button</h4>
-<h5>🌸(SESSION_ID ලබා ගැනීමට පහත බටන් එක click කරන්න)</h5> 
+<h5>(SESSION_ID ලබා ගැනීමට පහත බටන් එක click කරන්න)</h5> 
 <br>
-<h3>SEVER ➊</h3>
-<div align="center">
-<button><tr><a href="https://webpair-mega-1d2j.onrender.com/">🌸 SESSION_ID 🌸 ➊</a></tr></button>
-<br>
-<h3>SEVER ❷</h3>
-<div align="center">
-<button><tr><a href="https://webpair-mega-1.onrender.com/pair">🌸 SESSION_ID 🌸 ❷</a></tr></button>
-<br>
-<h3>SEVER ➌</h3>
+
+<h3>SEVER </h3>
 <div align="center">
 <button><tr><a href="https://express-pairing-code2-1.onrender.com/">🌸 SESSION_ID 🌸 ➌</a></tr></button>
 </div>
