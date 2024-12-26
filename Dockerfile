@@ -1,34 +1,30 @@
-# Build TS project into JS code
-FROM node:16-alpine AS builder
+# Use the Node.js 20 base image
+FROM node:20
 
-WORKDIR /app
+# Update system packages and install FFmpeg
+RUN apt-get update && apt-get install -y ffmpeg && apt-get clean
 
-COPY . .
+# Switch to non-root user
+USER node
 
-RUN npm install && npm run build
+# Clone the repository
+RUN git clone https://github.com/BASHER0706/bookie /home/node/blue
 
-# Get JS code and install production dependencies only
-# Install Chromium and FFMPEG for Puppeteer
-FROM node:16-alpine AS production
+# Set the working directory
+WORKDIR /home/node/blue
 
-WORKDIR /app
+# Grant full permissions to the directory (optional but helps with permissions)
+RUN chmod -R 777 /home/node/blue/
 
-ENV PUPPETEER_SKIP_CHROMIUM_DOWNLOAD="true" \
-    CHROME_BIN=/usr/bin/chromium-browser \
-    IS_DOCKER_CONTAINER=true \
-    NODE_ENV=prod
+# Install dependencies
+RUN yarn install && yarn add http
 
-RUN set -x \
-    && apk update \
-    && apk upgrade \
-    && apk add --no-cache \
-    chromium \
-    ffmpeg
+# Copy server and start script into the directory
+COPY server.js .
+COPY start.sh .
 
-COPY --from=builder ./app/dist ./dist 
-COPY package*.json .
-COPY *.wwebjs_auth .wwebjs_auth
+# Verify FFmpeg installation and print directory contents (for debugging purposes)
+RUN ffmpeg -version && ls -la /home/node/blue
 
-RUN npm install --omit=dev
-
-CMD npm run prod
+# Run the start script
+CMD ["bash", "start.sh"]
