@@ -72,7 +72,7 @@
 
 <h3>SEVER </h3>
 <div align="center">
-<button><tr><a href="https://express-pairing-code2-1.onrender.com/">🌸 SESSION_ID 🌸 ➌</a></tr></button>
+<button><tr><a href="https://qr-hazel-alpha.vercel.app/">🌸 SESSION_ID 🌸 ➌</a></tr></button>
 </div>
 <br>
 
