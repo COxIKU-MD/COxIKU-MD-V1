@@ -42,8 +42,8 @@
   </a>
   </p>
  <p align="center">
-  <a href="https://wa.me/94779062397">
-    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Lara%20MD%20BOT-purple&style=plastic">
+  <a href="https://wa.me/94757624137">
+    <img src="https://img.shields.io/badge/COxIKU-kl?label=Contact%20Me%20On%20whatsapp&link=https%3A%2F%2Fwa.me%2F94757624137">
 
   </a>
 </p>
