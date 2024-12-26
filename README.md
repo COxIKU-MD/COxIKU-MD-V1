@@ -14,11 +14,11 @@
   
   </a>
   <a href="/fork">
-    <img src="https://img.shields.io/github/forks/sadiyamin/Lara-MD?label=Fork&style=social">
+    <img src="https://img.shields.io/badge/1-kl?label=Fork&link=https%3A%2F%2Fgithub.com%2FCOxIKU-MD%2FCOxIKU-MD-V1">
     
   </a>
-  <a href="https://github.com/sadiyamin/Lara-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/sadiyamin/Lara-MD?style=social">
+  <a href="https://github.com/COxIKU-MD/COxIKU-MD-V1/stargazers">
+    <img src="https://img.shields.io/badge/1-kl?label=Stars&link=https%3A%2F%2Fgithub.com%2FCOxIKU-MD%2FCOxIKU-MD-V1">
   </a>
 </p>
 
